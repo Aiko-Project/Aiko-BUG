@@ -11,7 +11,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/Aiko-Project/Aiko/common/legoCmd/cmd"
+	"github.com/Aiko-Project/Aiko/common/legocmd/cmd"
 	"github.com/urfave/cli"
 )
 
