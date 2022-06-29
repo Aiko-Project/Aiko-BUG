@@ -1,6 +1,6 @@
 package panel
 
-import "github.com/Aiko-Project/Aiko/service/controller"
+import "github.com/AikoXrayR-Project/XrayR/service/controller"
 
 func getDefaultLogConfig() *LogConfig {
 	return &LogConfig{

@@ -7,9 +7,9 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/Aiko-Project/Aiko/api"
-	"github.com/Aiko-Project/Aiko/common/legocmd"
-	"github.com/Aiko-Project/Aiko/common/serverstatus"
+	"github.com/AikoXrayR-Project/XrayR/api"
+	"github.com/AikoXrayR-Project/XrayR/common/legocmd"
+	"github.com/AikoXrayR-Project/XrayR/common/serverstatus"
 	"github.com/xtls/xray-core/common/protocol"
 	"github.com/xtls/xray-core/common/task"
 	"github.com/xtls/xray-core/core"

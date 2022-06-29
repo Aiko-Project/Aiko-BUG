@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Aiko-Project/Aiko/common/legoCmd/log"
+	"github.com/AikoXrayR-Project/XrayR/common/legoCmd/log"
 	"github.com/go-acme/lego/v4/certcrypto"
 	"github.com/go-acme/lego/v4/lego"
 	"github.com/go-acme/lego/v4/registration"

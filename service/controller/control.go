@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/Aiko-Project/Aiko/api"
-	"github.com/Aiko-Project/Aiko/app/mydispatcher"
+	"github.com/AikoXrayR-Project/XrayR/api"
+	"github.com/AikoXrayR-Project/XrayR/app/mydispatcher"
 	"github.com/xtls/xray-core/common/protocol"
 	"github.com/xtls/xray-core/core"
 	"github.com/xtls/xray-core/features/inbound"

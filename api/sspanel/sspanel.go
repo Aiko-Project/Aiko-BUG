@@ -13,7 +13,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Aiko-Project/Aiko/api"
+	"github.com/AikoXrayR-Project/XrayR/api"
 	"github.com/go-resty/resty/v2"
 )
 

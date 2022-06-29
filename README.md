@@ -7,10 +7,10 @@ Aiko AikoCute Projects
 
 [![](https://img.shields.io/badge/Telegram-group-green?style=flat-square)](https://t.me/aikocutehotme)
 [![](https://img.shields.io/badge/Telegram-channel-blue?style=flat-square)](https://t.me/AikoCute_Support)
-[![](https://img.shields.io/github/downloads/Aiko-Project/Aiko/total.svg?style=flat-square)](https://github.com/Aiko-Project/Aiko/releases)
-[![](https://img.shields.io/github/v/release/Aiko-Project/Aiko?style=flat-square)](https://github.com/Aiko-Project/Aiko/releases)
-[![docker](https://img.shields.io/docker/v/Aiko-Project/Aiko?label=Docker%20image&sort=semver)](https://hub.docker.com/r/Aiko-Project/Aiko)
-[![Go-Report](https://goreportcard.com/badge/github.com/Aiko-Project/Aiko?style=flat-square)](https://goreportcard.com/report/github.com/Aiko-Project/Aiko)
+[![](https://img.shields.io/github/downloads/AikoXrayR-Project/XrayR/total.svg?style=flat-square)](https://github.com/AikoXrayR-Project/XrayR/releases)
+[![](https://img.shields.io/github/v/release/AikoXrayR-Project/XrayR?style=flat-square)](https://github.com/AikoXrayR-Project/XrayR/releases)
+[![docker](https://img.shields.io/docker/v/AikoXrayR-Project/XrayR?label=Docker%20image&sort=semver)](https://hub.docker.com/r/AikoXrayR-Project/XrayR)
+[![Go-Report](https://goreportcard.com/badge/github.com/AikoXrayR-Project/XrayR?style=flat-square)](https://goreportcard.com/report/github.com/AikoXrayR-Project/XrayR)
 </div>
 
 
@@ -79,4 +79,4 @@ Comming Soon
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/Aiko-Project/Aiko.svg)](https://starchart.cc/Aiko-Project/Aiko)
+[![Stargazers over time](https://starchart.cc/AikoXrayR-Project/XrayR.svg)](https://starchart.cc/AikoXrayR-Project/XrayR)
