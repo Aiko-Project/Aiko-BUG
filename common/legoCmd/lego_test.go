@@ -3,7 +3,7 @@ package legocmd_test
 import (
 	"testing"
 
-	"github.com/Aiko-Project/Aiko/common/legocmd"
+	legocmd "github.com/Aiko-Project/Aiko/common/legoCmd"
 )
 
 func TestLegoClient(t *testing.T) {
