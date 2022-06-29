@@ -3,7 +3,7 @@
 <div align="center">
 
 # Aiko
-XrayR AikoCute Projects
+Aiko AikoCute Projects
 
 [![](https://img.shields.io/badge/Telegram-group-green?style=flat-square)](https://t.me/aikocutehotme)
 [![](https://img.shields.io/badge/Telegram-channel-blue?style=flat-square)](https://t.me/AikoCute_Support)
@@ -15,13 +15,13 @@ XrayR AikoCute Projects
 
 
 # Mô tả về Aiko
-XrayR Aiko Hỗ trợ Nhiều Panel khác nhau ( V2board , ProxyPanel, sspanel, Pmpanel ...)
+Aiko Aiko Hỗ trợ Nhiều Panel khác nhau ( V2board , ProxyPanel, sspanel, Pmpanel ...)
 
 Một khung công tác back-end dựa trên Xray, hỗ trợ các giao thức V2ay, Trojan, Shadowsocks, cực kỳ dễ dàng mở rộng và hỗ trợ kết nối nhiều bảng điều khiển。
 
 Nếu bạn thích dự án này, bạn có thể nhấn vào dấu sao + xem ở góc trên bên phải để theo dõi tiến độ của dự án này.
 
-Sử dụng hướng dẫn：[Hướng dẫn chi tiết](https://xrayr.aikocute.com)
+Sử dụng hướng dẫn：[Hướng dẫn chi tiết](https://Aiko.aikocute.com)
 ## Tuyên bố từ chối trách nhiệm
 
 Dự án này chỉ mang tính chất học tập, phát triển và bảo trì của cá nhân tôi, tôi không đảm bảo tính khả dụng và tôi không chịu trách nhiệm về bất kỳ hậu quả nào do sử dụng phần mềm này.
@@ -72,7 +72,7 @@ Update Late
 Comming Soon
 ```
 ### Tệp cấu hình và hướng dẫn chi tiết
-[Hướng dẫn chi tiết](https://xrayr.aikocute.com)
+[Hướng dẫn chi tiết](https://Aiko.aikocute.com)
 ## Telgram
 
 [AikoTelegram](https://t.me/aikocutehotme)
