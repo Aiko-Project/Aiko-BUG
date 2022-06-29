@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# AikoXrayR
+# Aiko
 XrayR AikoCute Projects
 
 [![](https://img.shields.io/badge/Telegram-group-green?style=flat-square)](https://t.me/aikocutehotme)
@@ -14,7 +14,7 @@ XrayR AikoCute Projects
 </div>
 
 
-# Mô tả về AikoXrayR
+# Mô tả về Aiko
 XrayR Aiko Hỗ trợ Nhiều Panel khác nhau ( V2board , ProxyPanel, sspanel, Pmpanel ...)
 
 Một khung công tác back-end dựa trên Xray, hỗ trợ các giao thức V2ay, Trojan, Shadowsocks, cực kỳ dễ dàng mở rộng và hỗ trợ kết nối nhiều bảng điều khiển。
@@ -65,11 +65,11 @@ Dự án này chỉ mang tính chất học tập, phát triển và bảo trì 
 
 ## Cài đặt phần mềm - release
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/AikoXrayR-Project/AikoXrayR-install/master/install.sh)
+Update Late
 ```
 ### Một cài đặt chính - docker
 ```
-docker pull Aiko-Project/Aiko:latest && docker run --restart=always --name xrayr -d -v ${PATH_TO_CONFIG}/aiko.yml:/etc/XrayR/aiko.yml --network=host Aiko-Project/Aiko:latest
+Comming Soon
 ```
 ### Tệp cấu hình và hướng dẫn chi tiết
 [Hướng dẫn chi tiết](https://xrayr.aikocute.com)
